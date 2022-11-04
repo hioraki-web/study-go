@@ -6,13 +6,13 @@ golang的安装
 
    下面是官网的安装地址：https://golang.google.cn/dl/
 
-   ![golang](C:\Users\Administrator\Desktop\golang学习心得\assets\golang.png)
+   ![golang](../assets/golang.png)
 
 2. 可以去国内的go中文网安装(推荐)
 
    这里是go中文网安装的地址：https://studygolang.com/dl
 
-   ![go](C:\Users\Administrator\Desktop\golang学习心得\assets\go.png)
+   ![go](../assets/go.png)
 
    
 
@@ -24,4 +24,4 @@ go version
 
 看到下面的版本信息就证明安装成功了
 
-![bash](C:\Users\Administrator\Desktop\golang学习心得\assets\bash.png)
+![bash](../assets/bash.png)
